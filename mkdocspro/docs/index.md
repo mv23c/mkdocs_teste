@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Visão Geral do Produto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 1.1 Declaração de Posição do Produto
 
-## Commands
+O Strix é um produto voltado aos profissionais de educação física que trabalham como Personal Trainers, principalmente os autônomos, mas também pode ser usado pelos que trabalham em alguma academia. É um sistema para a gestão geral do profissional nas suas atividades, possuindo funcionalidades como calendário para marcação de aulas, cadastro de alunos, controle de pagamentos recebidos, envio de planejamento de treino para os alunos entre outros. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+O diferencial comparado a outros produtos disponíveis é a gratuidade independente da quantidade de alunos registrados e a oportunidade de fazer uma gestão completa do negócio em uma única ferramenta (da gestão financeira, de agenda, de alunos e de treinos). Se o cliente procura uma ferramenta para se organizar sem custo algum,  de fácil utilização e com tudo que precisa em um lugar só, esse é o sistema ideal pra ele!
 
-## Project layout
+## 1.2 Objetivos do Produto
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Facilitar a gestão do profissional de educação física ao centralizar as suas necessidades em um único local.
+
+## 1.3 Tecnologias a Serem Utilizadas
+
+React, javascript e nodejs
