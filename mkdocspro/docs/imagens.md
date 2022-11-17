@@ -1,3 +1,3 @@
 # Imagens
 
-1. ![slide 1](../img/academia.jpg)
+1. ![](../img/academia.jpg)
