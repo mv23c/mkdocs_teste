@@ -1,3 +1,4 @@
 site_name: My Docs
 nav:
-  - Visão Geral do Produto:  visao_geral_produto.md
+  - Home:  visao_geral_produto.md
+  - Imagens: imagens.md
